@@ -1,0 +1,27 @@
+:root {
+  --bg-void: #060505;
+  --bg-espresso: #0d0b0a;
+  --bg-surface: #151210;
+  --bg-elevated: #1c1714;
+
+  --text-primary: #f3ece2;
+  --text-secondary: #a89d91;
+  --text-muted: #766c62;
+
+  --accent: #c68b53;
+  --accent-soft: #d9a773;
+  --accent-deep: #8b5c32;
+
+  --border-subtle: rgba(217, 189, 156, 0.13);
+  --border-strong: rgba(198, 139, 83, 0.36);
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Golos Text', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --ease-out-quart: cubic-bezier(0.23, 1, 0.32, 1);
+  --t-fast: 220ms;
+  --t-base: 280ms;
+
+  --container: 1240px;
+  --gutter: clamp(1.25rem, 4vw, 3rem);
+}
